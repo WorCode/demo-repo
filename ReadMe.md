@@ -1,3 +1,3 @@
 # Demo
 
-Pierwszy projekt z wszystkimi bajrami.
+Pierwszy projekt z wszystkimi bajrami !
